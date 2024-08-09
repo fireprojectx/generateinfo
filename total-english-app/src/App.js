@@ -7,7 +7,7 @@ function App() {
       <div className="progress-bar">
         <div className="progress-bar-inner"></div>
       </div>
-      <img src="/logo.png" alt="Total English" className="logo"/>
+      <img src="/logototalenglish.png" alt="Total English" className="logo"/>
       <h1>Plan de Aprendizaje Acelerado</h1>
       <p>Seleccione su género para continuar. El cuestionario toma unos pocos minutos.</p>
       <div className="gender-selection">
